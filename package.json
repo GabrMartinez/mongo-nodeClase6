@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fuckyou": "0.0.1-security",
+    "mongodb": "^3.3.2"
   },
   "devDependencies": {},
   "scripts": {
